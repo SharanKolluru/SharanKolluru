@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/88401843/153305697-6690f566-0d50-4b3d-93bf-d4cef297b059.png)
 - 👋 Hi, I’m @Sharan Kumar Kolluru
 - 👀 I’m Salesforce Admin & Developer.
-- 🌱 I’m currently working as a Salesforce Admin & Developer (Working Student) at McMakler GmbH, Berlin, Germany.
+- 🌱 I’m currently working as a Salesforce Admin & Developer at McMakler GmbH, Berlin, Germany.
 - I'm currently learning DevOps Solutions like COPADO, Flosum.
 
 **Blog:** https://ltsquare.me/

@@ -25,3 +25,6 @@
 7. Data Integration Specialist
 8. Apex Specialist
 9. Process Automation Specialist
+10. Admin Super Set
+11. App Builder Super Set
+12. Developer Super Set

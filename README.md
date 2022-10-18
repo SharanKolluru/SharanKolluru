@@ -12,20 +12,20 @@
 **Trailblazer Profile:** https://trailblazer.me/id/sharankumar
 
 # Contact
-- Email: kolluru.sharankumar@outlook.com
-- LinkedIn: https://www.linkedin.com/in/sharankumarkolluru/
+- **Email:** kolluru.sharankumar@outlook.com
+- **LinkedIn:** https://www.linkedin.com/in/sharankumarkolluru/
 
 # Technical Skills
-- Programming Languages: APEX Programming, Java (J2SE)
-- Web Technologies: LWC, AURA, Visualforce Pages, HTML, CSS, JavaScript.
-- Database: SQL, SOQL and SOSL.
-- Integration: Apex Callouts, Web Services (REST API), and Postman – API Testing Tool.
-- Managed Packages: Salesforce CPQ, Salesforce Field Service Lightning (FSL), Docusign.
-- Software Methodologies: Agile, Scrum Framework.
-- Project Management Tools: Confluence, Jira, Trello, Asana.
-- Data Migration Tools: Workbench, Salesforce Data Loader and Dataloader.io
-- Deployment Tools: Change Set, ANT Migration Tool.
-- Productivity: GitHub, Visual Studio Code, MS Office, Draw.io, Canva, Documentation.
+- **Programming Languages:** APEX Programming, Java (J2SE)
+- **Web Technologies:** LWC, AURA, Visualforce Pages, HTML, CSS, JavaScript.
+- **Database:** SQL, SOQL and SOSL.
+- **Integration:** Apex Callouts, Web Services (REST API), and Postman – API Testing Tool.
+- **Managed Packages:** Salesforce CPQ, Salesforce Field Service Lightning (FSL), Docusign.
+- **Software Methodologies:** Agile, Scrum Framework.
+- **Project Management Tools:** Confluence, Jira, Trello, Asana.
+- **Data Migration Tools:** Workbench, Salesforce Data Loader and Dataloader.io
+- **Deployment Tools:** Change Set, ANT Migration Tool.
+- **Productivity:** GitHub, Visual Studio Code, MS Office, Draw.io, Canva, Documentation.
 
 # Certifications:
 1. Salesforce Administration.

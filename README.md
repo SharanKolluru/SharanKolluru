@@ -47,3 +47,10 @@
 10. Admin Super Set
 11. App Builder Super Set
 12. Developer Super Set
+
+# Industry Knowledge
+1. Sales : Real-Estate Industry
+2. Services : Road-Side Assistance
+3. Retail & E-Commerce
+4. Health Insurances & Health Services
+

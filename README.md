@@ -11,6 +11,8 @@
 
 **Trailblazer Profile:** https://trailblazer.me/id/sharankumar
 
+**GitBook:** https://ltsquare.gitbook.io/salesforce-lightning-resources/
+
 # Contact
 - **Email:** kolluru.sharankumar@outlook.com
 - **LinkedIn:** https://www.linkedin.com/in/sharankumarkolluru/

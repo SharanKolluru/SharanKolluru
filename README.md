@@ -7,7 +7,7 @@
 
 😄 I'm currently learning DevOps Solutions like COPADO, Flosum.
 
-**Blog:** https://ltsquare.me/
+**Blog:** https://ltsquare.one/
 
 **Trailblazer Profile:** https://trailblazer.me/id/sharankumar
 

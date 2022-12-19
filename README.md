@@ -5,7 +5,7 @@
 
 🌱 I’m currently working as a Salesforce Admin & Developer at McMakler GmbH, Berlin, Germany.
 
-😄 I'm currently learning DevOps Solutions like COPADO, Flosum.
+😄 I'm currently learning DevOps Solutions like Devops Center, COPADO, Flosum.
 
 **Blog:** https://ltsquare.one/
 

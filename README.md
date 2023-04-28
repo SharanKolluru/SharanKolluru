@@ -7,8 +7,6 @@
 
 😄 I'm currently learning DevOps Solutions like Devops Center, COPADO, Flosum.
 
-**Blog:** https://ltsquare.one/
-
 **Trailblazer Profile:** https://trailblazer.me/id/sharankumar
 
 **GitBook:** https://ltsquare.gitbook.io/salesforce-lightning-resources/
@@ -30,11 +28,11 @@
 - **Productivity:** GitHub, Visual Studio Code, MS Office, Draw.io, Canva, Documentation.
 
 # Certifications:
-1. Salesforce Administration.
-2. Salesforce Advanced Administration.
-3. Salesforce Platform App Builder.
-4. Salesforce Platform Developer I.
-5. Flosum Certified Professional
+1. Salesforce Certified Associate
+2. Salesforce Administration.
+3. Salesforce Advanced Administration.
+4. Salesforce Platform App Builder.
+5. Salesforce Platform Developer I.
 
 # TrailHead Superbadges:
 1. Selling with Sales Cloud Specialist

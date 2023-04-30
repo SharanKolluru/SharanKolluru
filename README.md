@@ -17,10 +17,11 @@
 
 # Technical Skills
 - **Programming Languages:** APEX Programming, Java (J2SE)
-- **Web Technologies:** LWC, AURA, Visualforce Pages, HTML, CSS, JavaScript.
+- **Declarative Automation Tools:** Salesforce Flow Builder.
+- **Web Technologies:** Lightning Web Components (LWC), AURA, Visualforce Pages, HTML, CSS, JavaScript.
 - **Database:** SQL, SOQL and SOSL.
 - **Integration:** Apex Callouts, Web Services (REST API), and Postman – API Testing Tool.
-- **Managed Packages:** Salesforce CPQ, Salesforce Field Service Lightning (FSL), Docusign.
+- **Managed Packages:** Salesforce CPQ, Salesforce Field Service Lightning (FSL), Docusign, AirCall CTI.
 - **Software Methodologies:** Agile, Scrum Framework.
 - **Project Management Tools:** Confluence, Jira, Trello, Asana.
 - **Data Migration Tools:** Workbench, Salesforce Data Loader and Dataloader.io

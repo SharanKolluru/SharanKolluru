@@ -9,7 +9,7 @@
 
 **Trailblazer Profile:** https://trailblazer.me/id/sharankumar
 
-**GitBook:** https://sharankolluru.gitbook.io/
+**GitBook:** https://ltsquare.one/
 
 # Contact
 - **Email:** kolluru.sharankumar@outlook.com

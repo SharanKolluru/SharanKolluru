@@ -7,7 +7,7 @@
 
 😄 I'm currently learning DevOps Solutions like Devops Center, COPADO, Flosum.
 
-**Trailblazer Profile:** https://trailblazer.me/id/sharankumar
+**Trailblazer Profile:** https://www.salesforce.com/trailblazer/sharankumarkolluru
 
 **GitBook:** https://ltsquare.one/
 

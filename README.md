@@ -14,7 +14,7 @@
 # Contact
 - **Email:** kolluru.sharankumar@outlook.com
 - **LinkedIn:** https://www.linkedin.com/in/sharankumarkolluru/
-- **Trailhead:** https://www.salesforce.com/trailblazer/sharankumar
+- **Trailhead:** https://www.salesforce.com/trailblazer/sharankumarkolluru
 
 # Technical Skills
 - **Programming Languages:** APEX Programming, Java (J2SE)

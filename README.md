@@ -3,9 +3,9 @@
 
 👀 I’m Salesforce Admin & Developer.
 
-🌱 I’m currently working as a Salesforce Admin & Developer at McMakler GmbH, Berlin, Germany.
+🌱 I’m currently working as a Senior Salesforce Admin & Developer at Enpal B.V, Berlin, Germany.
 
-😄 I'm currently learning DevOps Solutions like Devops Center, COPADO, Flosum.
+😄 I'm currently learning DevOps Solutions like Devops Center & COPADO.
 
 **Trailblazer Profile:** https://www.salesforce.com/trailblazer/sharankumarkolluru
 
@@ -25,12 +25,13 @@
 - **Managed Packages:** Salesforce CPQ, Salesforce Field Service Lightning (FSL), Docusign, AirCall CTI.
 - **Software Methodologies:** Agile, Scrum Framework.
 - **Project Management Tools:** Confluence, Jira, Trello, Asana.
-- **Data Migration Tools:** Workbench, Salesforce Data Loader and Dataloader.io
-- **Deployment Tools:** Change Set, ANT Migration Tool.
+- **Data Migration Tools:** Salesforce Workbench, Salesforce Data Loader and Dataloader.io
+- **CTI Tools:** DialFire & Talkdesk.
+- **Deployment Tools:** Change Set & Copado (Basics).
 - **Productivity:** GitHub, Visual Studio Code, MS Office, Draw.io, Canva, Documentation.
 
 # Certifications:
-1. Salesforce Certified Associate
+1. Salesforce Associate
 2. Salesforce Administration.
 3. Salesforce Advanced Administration.
 4. Salesforce Platform App Builder.
@@ -51,8 +52,8 @@
 12. Developer Super Set
 
 # Industry Knowledge
-1. Sales : Real-Estate Industry
-2. Services : Road-Side Assistance
+1. Sales : Real-Estate Industry, Renewable Energy (Sales)
+2. Services : Road-Side Assistance, Renewable Energy (Service)
 3. Retail & E-Commerce
 4. Health Insurances & Health Services
 

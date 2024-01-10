@@ -28,7 +28,7 @@
 - **Data Migration Tools:** Salesforce Workbench, Salesforce Data Loader and Dataloader.io
 - **CTI Tools:** DialFire & Talkdesk.
 - **Deployment Tools:** Change Set & Copado (Basics).
-- **Productivity:** GitHub, Visual Studio Code, MS Office, Draw.io, Canva, Documentation.
+- **Productivity:** GitHub, Visual Studio Code, MS Office, Draw.io, Canva, Miro, and Documentation.
 
 # Certifications:
 1. Salesforce Associate

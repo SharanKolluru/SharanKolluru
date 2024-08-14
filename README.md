@@ -9,7 +9,7 @@
 
 **Trailblazer Profile:** https://www.salesforce.com/trailblazer/sharankumarkolluru
 
-**GitBook:** https://ltsquare.one/
+**GitBook:** [https://ltsquare.one/](https://www.ltsquare.one/salesforce)
 
 # Contact
 - **Email:** kolluru.sharankumar@outlook.com

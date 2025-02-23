@@ -1,11 +1,7 @@
 ![image](https://user-images.githubusercontent.com/88401843/153305697-6690f566-0d50-4b3d-93bf-d4cef297b059.png)
  # 👋 Hi, I’m @Sharan Kumar Kolluru
 
-👀 I’m Salesforce Admin & Developer.
-
-🌱 I’m currently working as a Senior Salesforce Admin & Developer at Enpal B.V, Berlin, Germany.
-
-😄 I'm currently learning DevOps Solutions like Devops Center & COPADO.
+👀 I’m Salesforce Admin + Developer + Release Manager.
 
 **Trailblazer Profile:** https://www.salesforce.com/trailblazer/sharankumarkolluru
 
